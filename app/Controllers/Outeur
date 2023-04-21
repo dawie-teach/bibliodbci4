@@ -1,0 +1,11 @@
+<?php
+
+namespace App\Controllers;
+
+class Outeur extends BaseController
+{
+    public function vertoon()
+    {
+        return view('Outeur/vertoon');
+    }
+}
