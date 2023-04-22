@@ -1,0 +1,1071 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1"
+			],
+			[
+				"cou",
+				"count()"
+			],
+			[
+				"prin",
+				"print_r()"
+			],
+			[
+				"var",
+				"var_dump()"
+			],
+			[
+				"fore",
+				"foreach\tforeach …"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"Ou",
+				"Outeur"
+			],
+			[
+				"ver",
+				"vertoon"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"c",
+				"col-4"
+			],
+			[
+				"str",
+				"strtoupper"
+			],
+			[
+				"ou",
+				"outeurs"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"v",
+				"voorletters"
+			],
+			[
+				"va",
+				"var_dump()"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"voor",
+				"voorletters"
+			],
+			[
+				"out",
+				"outeurs"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"resu",
+				"resultaat"
+			],
+			[
+				"get",
+				"getTelno"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"ak",
+				"aksie"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"voo",
+				"voorraad"
+			],
+			[
+				"Uitgewer",
+				"UitgewerDB"
+			],
+			[
+				"uitgew",
+				"uitgewer_id"
+			],
+			[
+				"IN",
+				"INPUT_GET"
+			],
+			[
+				"bo",
+				"boek_id"
+			],
+			[
+				"b",
+				"boek_id"
+			],
+			[
+				"boek",
+				"boek_id"
+			],
+			[
+				"res",
+				"resultset"
+			],
+			[
+				"g",
+				"getTitel"
+			],
+			[
+				"getId",
+				"getBoekID"
+			],
+			[
+				"getOuteurV",
+				"getOuteurVoorletters"
+			],
+			[
+				"uit",
+				"uitgewer_id"
+			],
+			[
+				"filter",
+				"filter_input"
+			],
+			[
+				"oute",
+				"outeur_id"
+			],
+			[
+				"leser",
+				"leser_id"
+			],
+			[
+				"bib",
+				"bibliotekaresse"
+			],
+			[
+				"uitgewerID",
+				"uitgewerID"
+			],
+			[
+				"uitg",
+				"uitgewer"
+			],
+			[
+				"outeurV",
+				"outeurVoorletters"
+			],
+			[
+				"file_",
+				"file_exists"
+			],
+			[
+				"re",
+				"resultset"
+			],
+			[
+				"uitgewerna",
+				"uitgewernaam"
+			],
+			[
+				"le",
+				"leserID"
+			],
+			[
+				"cha",
+				"CHARACTER"
+			],
+			[
+				"wys_join",
+				"wys_joined_view"
+			],
+			[
+				"array_",
+				"array_push"
+			],
+			[
+				"soek",
+				"soekterm"
+			],
+			[
+				"preg",
+				"preg_quote"
+			],
+			[
+				"soe",
+				"soekterm"
+			],
+			[
+				"view",
+				"viewsql"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"p",
+				"plek"
+			],
+			[
+				"title",
+				"titel"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"m",
+				"maakdb"
+			],
+			[
+				"kry",
+				"krysql"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Out",
+				"OuteurID"
+			],
+			[
+				"uitgewer",
+				"uitgewerID"
+			],
+			[
+				"uitgewe",
+				"uitgewerID"
+			],
+			[
+				"veran",
+				"veranderSQL"
+			],
+			[
+				"tbl",
+				"tblOuteurs"
+			],
+			[
+				"Uit",
+				"UitgewerID"
+			],
+			[
+				"tblO",
+				"tblOuteursSQL"
+			],
+			[
+				"ta",
+				"tabelSQL"
+			],
+			[
+				"_G",
+				"_GET"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"sort",
+				"sorteerkolom"
+			],
+			[
+				"tit",
+				"titelingevoeg"
+			],
+			[
+				"outeur",
+				"outeurVan"
+			],
+			[
+				"ter",
+				"terugvoerboodskap"
+			],
+			[
+				"t",
+				"terugvoerboodskap"
+			],
+			[
+				"terug",
+				"terugvoer"
+			],
+			[
+				"fom",
+				"formaction\tAttr"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"outer",
+				"outeurVan"
+			],
+			[
+				"verander",
+				"verander_joined"
+			],
+			[
+				"resul",
+				"resultaat"
+			],
+			[
+				"tb",
+				"tblOuteurs"
+			],
+			[
+				"No",
+				"Notas"
+			],
+			[
+				"dupl",
+				"duplikaatQuery"
+			],
+			[
+				"result",
+				"resultaat"
+			],
+			[
+				"ec",
+				"echo\techo string"
+			],
+			[
+				"inclu",
+				"include"
+			],
+			[
+				"vertoon",
+				"vertoon_alles"
+			],
+			[
+				"o",
+				"outeurVan"
+			],
+			[
+				"Notas",
+				"notes_unread"
+			],
+			[
+				"k",
+				"kategoriee"
+			],
+			[
+				"dat",
+				"datalist\tTag"
+			],
+			[
+				"kateg",
+				"kategorie"
+			],
+			[
+				"sub",
+				"Subkategorie"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"st",
+				"statement"
+			],
+			[
+				"delet",
+				"deleteQuery"
+			],
+			[
+				"det",
+				"deleteSQL"
+			],
+			[
+				"sele",
+				"selectSQL"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"sel",
+				"selectSQL"
+			],
+			[
+				"insert",
+				"insertSQL"
+			],
+			[
+				"kar",
+				"kar1"
+			],
+			[
+				"ka",
+				"kar1"
+			],
+			[
+				"Ka",
+				"karre"
+			],
+			[
+				"met",
+				"met_return"
+			],
+			[
+				"opda",
+				"opdateerKnop"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"inp",
+				"input3"
+			],
+			[
+				"gr",
+				"grammarKorrek1"
+			],
+			[
+				"voc",
+				"vocab3"
+			],
+			[
+				"knop",
+				"knopHoeveel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 4539,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "public"
+					},
+					"BgAAAHQDAAAAAAAAdQMAAAAAAAAAAAAAdQMAAAAAAAB2AwAAAAAAAAAAAAB2AwAAAAAAAHcDAAAAAAAAAAAAAHcDAAAAAAAAeAMAAAAAAAAAAAAAeAMAAAAAAAB5AwAAAAAAAAAAAAB5AwAAAAAAAHoDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAMAAAAAAAB0AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAHoDAAAAAAAAewMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegMAAAAAAAB6AwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"h",
+				"Snippet: html"
+			],
+			[
+				"comm",
+				"Snippet: HTML - Comment"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"debugger",
+				"Debugger: Start"
+			],
+			[
+				"debu",
+				"Debugger: Add or Select Configuration"
+			],
+			[
+				"debugg",
+				"Debugger: Add or Select Configuration"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"comment",
+				"Snippet: HTML - Comment"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"SideBarHider: Toggle Autohide for Current Window"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"p",
+				"Set Syntax: PHP"
+			],
+			[
+				"class",
+				"Snippet: Class Variable"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 180.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/bibliodbci4"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/ci-news/vendor/codeigniter4/framework/app/Views/welcome_message.php",
+		"/C/xampp/htdocs/ci-news/vendor/codeigniter4/framework/.env",
+		"/C/xampp/htdocs/ci-news/.env",
+		"/C/xampp/htdocs/ci-news/app/Views/welcome_message.php",
+		"/C/xampp/htdocs/ci-news/app/Config/App.php",
+		"/C/xampp/htdocs/bibliodbci4.2.1.9/app/Controllers/Outeur",
+		"/C/xampp/htdocs/bibliodbci4.2.1.9/app/Views/Outeur/vertoon.php",
+		"/C/xampp/htdocs/bibliodbci4.2.1.9/app/Controllers/Home.php",
+		"/C/xampp/htdocs/bibliodbci4.2.1.9/app/Views/welcome_message.php",
+		"/C/xampp/htdocs/bibliodbci4.2.1.9/.env",
+		"/C/xampp/htdocs/bibliodbci4.2.1.9/README.md",
+		"/C/xampp/htdocs/ci4bibliodb/app/index.html",
+		"/C/xampp/htdocs/ci4bibliodb/README.md",
+		"/C/xampp/htdocs/ci4bibliodb/.env",
+		"/C/xampp/htdocs/ci4bibliodb/phpinfo.php",
+		"/C/xampp/htdocs/ci4bibliodb/app/Config/App.php",
+		"/C/xampp/htdocs/ci4bibliodb/vendor/codeigniter4/codeigniter4/README.md",
+		"/C/xampp/htdocs/bibliodbci4/app/Config/App.php",
+		"/C/xampp/htdocs/ci4bibliodb/public/index.php",
+		"/C/xampp/htdocs/ci4bibliodb/public/favicon.ico",
+		"/C/xampp/php/php.ini-development",
+		"/C/xampp/php/php.ini-production",
+		"/C/xampp/htdocs/ci4bibliodb/app/Controllers/Home.php",
+		"/C/xampp/htdocs/ci4bibliodb/env",
+		"/C/xampp/htdocs/ci4bibliodb/spark",
+		"/C/xampp/htdocs/ci4bibliodb/app/Config/Boot/development.php",
+		"/C/xampp/htdocs/ci4bibliodb/public/.htaccess",
+		"/C/xampp/htdocs/ci4bibliodb/app/Config/Routes.php",
+		"/C/xampp/htdocs/ci4bibliodb/writable/.htaccess",
+		"/C/xampp/htdocs/ci4bibliodb/app/Config/Paths.php",
+		"/C/xampp/htdocs/ci4bibliodb/app/Views/welcome_message.php",
+		"/C/xampp/htdocs/ci4bibliodb/.gitignore",
+		"/C/xampp/htdocs/bibliodbci3/application/controllers/Outeur.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/voegby_hou_waardes.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/voegby.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/vertoon.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/templates/header.php",
+		"/C/xampp/htdocs/bibliodbci3/composer.json",
+		"/C/xampp/htdocs/bibliodbci3/tydelik/layout_idees.txt",
+		"/C/xampp/htdocs/bibliodbci3/application/views/templates/terugvoer.php",
+		"/C/xampp/htdocs/bibliodbci3/assets/bibliodbci3.css",
+		"/C/xampp/htdocs/bibliodbci3/tydelik/snippets.txt",
+		"/C/xampp/htdocs/bibliodbci3/application/models/Outeur_model.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/vertoon_beperk_knop.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/vertoon_alles_knop.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/templates/navigasie.php",
+		"/C/xampp/htdocs/bibliodbci3/application/config/routes.php",
+		"/C/xampp/htdocs/bibliodbci3/application/config/autoload.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/verander_hou_waardes.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/xverander.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/verander.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/voegby_hou_waardes_oud.php",
+		"/C/xampp/htdocs/bibliodbci3/assets/bibliodbci3.js",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/index_huh.php",
+		"/C/xampp/htdocs/bibliodbci3/notas.txt",
+		"/C/xampp/htdocs/bibliodbci3/application/controllers/Uitgewer.php",
+		"/C/xampp/htdocs/bibliodbci3/application/models/Uitgewer_model",
+		"/C/xampp/htdocs/bibliodbci3/application/views/templates/modal.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/verwyder.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/templates/modal.php",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/bibliodbci3/uitstaande.txt",
+		"/C/xampp/htdocs/bibliodbci3/application/config/config.php",
+		"/C/xampp/htdocs/bibliodbci3/application/controllers/Boek.php",
+		"/C/xampp/htdocs/bibliodbci3/.htaccess",
+		"/C/xampp/htdocs/openbiblio/home/index.php",
+		"/C/xampp/htdocs/openbiblio/classes/Localize.php",
+		"/C/xampp/htdocs/openbiblio/shared/common.php",
+		"/C/xampp/htdocs/openbiblio/classes/Biblio.php",
+		"/C/xampp/htdocs/openbiblio/database_constants.php",
+		"/C/xampp/htdocs/openbiblio/classes/Error.php",
+		"/C/xampp/htdocs/openbiblio/admin/noauth.php",
+		"/C/xampp/htdocs/openbiblio/admin/staff_list.php",
+		"/C/xampp/htdocs/openbiblio/admin/custom_marc_delete.php",
+		"/C/xampp/htdocs/openbiblio/shared/copying.html",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/voegbydfgsa.php",
+		"/C/xampp/htdocs/bibliodbci3/notas2.txt",
+		"/C/xampp/htdocs/bibliodbci3/application/views/templates/sukses.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Boek/vertoon_alles.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Boek/voegby.php",
+		"/C/xampp/htdocs/bibliodbci3/application/models/Boek_model.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/voegbyOID.php",
+		"/C/xampp/htdocs/bibliodbci3/application/controllers/index.html",
+		"/C/xampp/htdocs/bibliodbci3/application/views/templates/footer.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/index.html",
+		"/C/xampp/htdocs/bibliodbci3/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/index.php",
+		"/C/xampp/htdocs/bibliodbci3/application/models/Outeur.php",
+		"/C/xampp/htdocs/bibliodbci3/application/config/database.php",
+		"/C/xampp/htdocs/bibliodbci3/application/.htaccess",
+		"/C/xampp/htdocs/bibliodbci3/application/views/Outeur/vra.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/controllers/News.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/models/News_model.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/views/news/view.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/config/config.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/config/database.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/index.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/system/database/DB_query_builder.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/system/core/Loader.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/config/routes.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/controllers/Pages.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/.git/COMMIT_EDITMSG",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/views/news/create.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/models/index.html",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/views/news/index.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/system/helpers/url_helper.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/views/news/success,php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/views/pages/home.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/controllers/index.html",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/controllers/News",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/views/index.html",
+		"/C/xampp/htdocs/CI3OefenTutorial/system/core/Input.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/system/core/Model.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/system/core/CodeIgniter.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/system/core/Router.php",
+		"/C/xampp/htdocs/CI3OefenTutorial/application/views/pages/about.php",
+		"/C/xampp/htdocs/doctrine_oefen/bootstrap.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/BoekDB.klas.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/Leser.klas.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/leser/view_registreer.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/z1Leser.klas.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/LeserDB.klas.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/Persoon.klas.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/index.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/profiel/view_registreer.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/profiel/index.php",
+		"/C/xampp/htdocs/bibliodb_biblioteek/profiel/view1.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								891,
+								891
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 29.0
+	},
+	"pinned_build_system": "",
+	"project": "bibliodbci4.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
