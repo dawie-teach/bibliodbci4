@@ -1,5 +1,2 @@
-can nie cache write nie
-https://stackoverflow.com/questions/64446019/codeigniter-4-cache-writing-error-occured
 
---------
 
