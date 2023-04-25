@@ -925,6 +925,10 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
 	},
 	"show_minimap": true,
 	"show_open_files": true,
