@@ -520,6 +520,7 @@
 	"buffers":
 	[
 		{
+<<<<<<< HEAD
 			"file": ".env",
 			"settings":
 			{
@@ -529,6 +530,15 @@
 			"undo_stack":
 			[
 			]
+=======
+			"file": "app/Config/App.php",
+			"settings":
+			{
+				"buffer_size": 15969,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+>>>>>>> 6b3dce70bf18cd9f8abab180d1b1bbf5b9dc7df9
 		}
 	],
 	"build_system": "",
@@ -675,12 +685,38 @@
 	},
 	"expanded_folders":
 	[
+<<<<<<< HEAD
 		"/C/xampp/htdocs/bibliodbci4",
 		"/C/xampp/htdocs/bibliodbci4/app",
 		"/C/xampp/htdocs/bibliodbci4/app/Controllers"
+=======
+		"/var/www/html/bibliodbci4",
+		"/var/www/html/bibliodbci4/app",
+		"/var/www/html/bibliodbci4/app/Config",
+		"/var/www/html/bibliodbci4/public"
+>>>>>>> 6b3dce70bf18cd9f8abab180d1b1bbf5b9dc7df9
 	],
 	"file_history":
 	[
+		"/var/www/html/bibliodbci4/app/Config/App.php",
+		"/var/www/html/bibliodbci4/public/.htaccess",
+		"/var/www/html/bibliodbci4/app/.htaccess",
+		"/var/www/html/bibliodbci4/app/index.html",
+		"/var/www/html/bibliodbci4/public/index.php",
+		"/var/www/html/bibliodbci4/app/Config/Routes.php",
+		"/var/www/html/bibliodbci4/app/Config/Database.php",
+		"/var/www/html/bibliodbci4/app/Views/templates/footer.php",
+		"/var/www/html/bibliodbci4/app/Views/templates/header.php",
+		"/var/www/html/bibliodbci4/app/Controllers/BaseController.php",
+		"/var/www/html/bibliodbci4/app/Controllers/Outeur.php",
+		"/var/www/html/bibliodbci4/app/Controllers/Home.php",
+		"/var/www/html/bibliodbci4/system/Controller.php",
+		"/var/www/html/bibliodbci4/app/Views/welcome_message.php",
+		"/var/www/html/bibliodbci4/.env",
+		"/var/www/html/bibliodbci4/app/Views/Outeur/vertoon.php",
+		"/var/www/html/bibliodbci4/app/Config/Validation.php",
+		"/var/www/html/bibliodbci4/app/Views/Outeur/groet.php",
+		"/var/www/html/bibliodbci4/app/Config/Autoload.php",
 		"/C/xampp/htdocs/bibliodbci4/app/Controllers/Outeur.php",
 		"/C/xampp/htdocs/bibliodbci4/app/Views/Outeur/vertoon.php",
 		"/C/xampp/htdocs/bibliodbci4/app/Views/Outeur/groet.php",
@@ -789,26 +825,7 @@
 		"/C/xampp/htdocs/CI3OefenTutorial/application/controllers/Pages.php",
 		"/C/xampp/htdocs/CI3OefenTutorial/.git/COMMIT_EDITMSG",
 		"/C/xampp/htdocs/CI3OefenTutorial/application/views/news/create.php",
-		"/C/xampp/htdocs/CI3OefenTutorial/application/models/index.html",
-		"/C/xampp/htdocs/CI3OefenTutorial/application/views/news/index.php",
-		"/C/xampp/htdocs/CI3OefenTutorial/system/helpers/url_helper.php",
-		"/C/xampp/htdocs/CI3OefenTutorial/application/views/news/success,php",
-		"/C/xampp/htdocs/CI3OefenTutorial/application/views/pages/home.php",
-		"/C/xampp/htdocs/CI3OefenTutorial/application/controllers/index.html",
-		"/C/xampp/htdocs/CI3OefenTutorial/application/controllers/News",
-		"/C/xampp/htdocs/CI3OefenTutorial/application/views/index.html",
-		"/C/xampp/htdocs/CI3OefenTutorial/system/core/Input.php",
-		"/C/xampp/htdocs/CI3OefenTutorial/system/core/Model.php",
-		"/C/xampp/htdocs/CI3OefenTutorial/system/core/CodeIgniter.php",
-		"/C/xampp/htdocs/CI3OefenTutorial/system/core/Router.php",
-		"/C/xampp/htdocs/CI3OefenTutorial/application/views/pages/about.php",
-		"/C/xampp/htdocs/doctrine_oefen/bootstrap.php",
-		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/BoekDB.klas.php",
-		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/Leser.klas.php",
-		"/C/xampp/htdocs/bibliodb_biblioteek/leser/view_registreer.php",
-		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/z1Leser.klas.php",
-		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/LeserDB.klas.php",
-		"/C/xampp/htdocs/bibliodb_biblioteek/klasse/Persoon.klas.php"
+		"/C/xampp/htdocs/CI3OefenTutorial/application/models/index.html"
 	],
 	"find":
 	{
@@ -819,6 +836,7 @@
 		"height": 160.0,
 		"where_history":
 		[
+			"/var/www/html/bibliodbci4/app"
 		]
 	},
 	"find_state":
@@ -826,6 +844,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"welcome_message.php"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -835,34 +854,46 @@
 		[
 		],
 		"reverse": false,
-		"scrollbar_highlights": true,
 		"show_context": true,
 		"use_buffer2": true,
-		"use_gitignore": true,
 		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+<<<<<<< HEAD
 					"file": ".env",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 4539,
+=======
+					"file": "app/Config/App.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15969,
+>>>>>>> 6b3dce70bf18cd9f8abab180d1b1bbf5b9dc7df9
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								1079,
 								1079
+=======
+								784,
+								784
+>>>>>>> 6b3dce70bf18cd9f8abab180d1b1bbf5b9dc7df9
 							]
 						],
 						"settings":
@@ -872,12 +903,36 @@
 							{
 								"close":
 								{
+<<<<<<< HEAD
 								},
 								"icon":
 								{
 								},
 								"open":
 								{
+=======
+									"1":
+									[
+										784,
+										785
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										754,
+										755
+									]
+>>>>>>> 6b3dce70bf18cd9f8abab180d1b1bbf5b9dc7df9
 								},
 								"unmatched":
 								{
@@ -885,6 +940,7 @@
 							},
 							"bracket_highlighter.regions":
 							[
+<<<<<<< HEAD
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -905,11 +961,14 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+=======
+>>>>>>> 6b3dce70bf18cd9f8abab180d1b1bbf5b9dc7df9
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+<<<<<<< HEAD
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -930,6 +989,18 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+=======
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+>>>>>>> 6b3dce70bf18cd9f8abab180d1b1bbf5b9dc7df9
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -939,6 +1010,7 @@
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
+<<<<<<< HEAD
 								"bh_round_content"
 							],
 							"syntax": "Packages/Text/Plain text.tmLanguage"
@@ -949,6 +1021,52 @@
 					},
 					"stack_index": 0,
 					"stack_multiselect": false,
+=======
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1695.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+>>>>>>> 6b3dce70bf18cd9f8abab180d1b1bbf5b9dc7df9
 					"type": "text"
 				}
 			]
@@ -985,6 +1103,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
 	"output.SublimeLinter":
 	{
 		"height": 0.0
